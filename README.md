@@ -10,7 +10,7 @@ A simple weather App created using [Flutter](https://flutter.dev/) and [Dart](ht
 - 5 days weather information
 
 ## How to Run
-1. Create an account at [weatherapi](https://api.weatherapi.com/).
+1. Create an account at [OpenWeatherMap](https://openweathermap.org/).
 2. Then get your API key from https://home.openweathermap.org/api_keys.
 
 3.Install all the packages by typing
